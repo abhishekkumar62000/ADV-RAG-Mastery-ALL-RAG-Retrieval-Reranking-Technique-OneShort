@@ -250,7 +250,7 @@ git push -u origin main
 
 # 🌐 LangGraph Workflow — ADV RAG Mastery (Day-wise Sessions)
 
-```mermaid
+```
 graph TD
 
   %% Start
@@ -299,7 +299,7 @@ graph TD
   D8 --> D9
   D9 --> BA
   D9 --> BB
-```
+``
 
 ---
 
