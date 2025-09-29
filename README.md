@@ -242,3 +242,88 @@ git commit -m "chore: https://github.com/abhishekkumar62000/ADV-RAG-Mastery-ALL-
 git branch -M main
 git remote add origin git@github.com:<https://github.com/abhishekkumar62000/ADV-RAG-Mastery-ALL-RAG-Retrieval-Reranking-Technique-OneShort.git
 git push -u origin main
+
+---
+
+
+---
+
+# 🌐 LangGraph Workflow — ADV RAG Mastery (Day-wise Sessions)
+
+```mermaid
+graph TD
+
+  %% Start
+  Start([🚀 Start: Intro to RAG Mastery])
+  
+  %% Day 1: Hybrid Search
+  D1["Day 1: Advance RAG Hybrid Search Technique"]
+  
+  %% Day 2: Hybrid + Reranker
+  D2["Day 2: Hybrid Search + Reranker (Cross/Bi-Encoders)"]
+
+  %% Day 3: Reranking from Scratch
+  D3["Day 3: Build Reranker from Scratch"]
+
+  %% Day 4: Cross Encoders + Cohere API
+  D4["Day 4: Cross Encoders & Cohere API"]
+
+  %% Day 5: Merger Retriever + Long Context
+  D5["Day 5: Merger Retriever Reranker + Long Context Handling"]
+
+  %% Day 6: RAG Fusion + Advanced Reranking
+  D6["Day 6: RAG Fusion w/ Advanced Reranking"]
+
+  %% Day 7: Flash Reranker (Production-ready)
+  D7["Day 7: Flash Reranker — Superfast Inference"]
+
+  %% Day 8: LangChain + Contextual Compression
+  D8["Day 8: LangChain Pipeline + Contextual Compression"]
+
+  %% Day 9: Self Query Retrieval
+  D9["Day 9: Self-Query Retrieval — Query Expansion/Rewriting"]
+
+  %% Bonus
+  BA["Bonus A: Interview Prep (100+ Qs)"]
+  BB["Bonus B: 20 GenAI Projects for Resume"]
+
+  %% Edges
+  Start --> D1
+  D1 --> D2
+  D2 --> D3
+  D3 --> D4
+  D4 --> D5
+  D5 --> D6
+  D6 --> D7
+  D7 --> D8
+  D8 --> D9
+  D9 --> BA
+  D9 --> BB
+```
+
+---
+
+## 🧩 Node → Edge Explanation (Day-wise Dependencies)
+
+* **Day 1 → Day 2**: You must understand hybrid retrieval before adding rerankers.
+* **Day 2 → Day 3**: After learning rerankers, you build one **from scratch**.
+* **Day 3 → Day 4**: Extend to **cross encoders & Cohere API** for managed solutions.
+* **Day 4 → Day 5**: Use **multi-retrievers & long context strategies**.
+* **Day 5 → Day 6**: Fusion strategies build on multi-retriever pipelines.
+* **Day 6 → Day 7**: Move to **production-grade speed optimization** (Flash Reranker).
+* **Day 7 → Day 8**: Integrate into frameworks (**LangChain**) and add contextual compression.
+* **Day 8 → Day 9**: Once pipelines are mature, add **self-query LLM-driven retrieval**.
+* **Day 9 → Bonus**: By now you can prepare for interviews and implement portfolio projects.
+
+---
+
+## ⚙️ Workflow in LangGraph Terms
+
+* **Nodes** = Day/session modules (D1 → D9 + Bonus).
+* **Edges** = Directed dependencies (`edge: from → to`).
+* **Execution flow** = linear, but allows branch at **Day 9 → Bonus A & Bonus B**.
+* **Optional parallel edges**: Some labs (Day 4 Cohere API & Day 5 Merger Retriever) can run in parallel after Day 3.
+
+---
+
+
