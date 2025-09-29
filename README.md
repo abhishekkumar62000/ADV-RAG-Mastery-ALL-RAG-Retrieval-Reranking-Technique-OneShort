@@ -1,5 +1,5 @@
 
-
+<img width="1536" height="1024" alt="LOGO" src="https://github.com/user-attachments/assets/aaaad2c3-19f1-4735-bb4d-f0b323cfa6e5" />
 
 
 # 🎯 RAG Session — **ADV RAG Mastery: ALL RAG Retrieval & Reranking Technique (OneShort Playlist)**
@@ -325,6 +325,33 @@ graph TD
 * **Edges** = Directed dependencies (`edge: from → to`).
 * **Execution flow** = linear, but allows branch at **Day 9 → Bonus A & Bonus B**.
 * **Optional parallel edges**: Some labs (Day 4 Cohere API & Day 5 Merger Retriever) can run in parallel after Day 3.
+
+---
+
+---
+
+## 👨‍💻 Developer Information  
+
+**Created by Abhishek Yadav**  
+📧 **Email:** abhiydv23096@gmail.com  
+🔗 **LinkedIn:** [Abhi Yadav](https://www.linkedin.com/in/your-linkedin-profile)  
+🐙 **GitHub Profile:** [@abhishekkumar62000](https://github.com/abhishekkumar62000)  
+
+📸 **Developer Profile Image:**  
+
+<p align="center">
+  <img width="1144" height="840" alt="developer" src="https://github.com/user-attachments/assets/6af9a0f7-b5d5-466b-8774-bed6a610d668" />
+
+      
+</p>
+
+
+
+
+
+---
+
+🔥 *This repository + video series is your one-stop place for mastering **ADV RAG & MultiModel RAG LLM RAG Pineline Mastery***.
 
 ---
 
